@@ -1,6 +1,6 @@
-var fruits = ["apple", "banana", "orange"];
-var bananaIndex = fruits.indexOf("banana");
-fruits[bananaIndex] = "mango";
+var fruits = ["Apple", "Banana", "Orange"];
+var bananaIndex = fruits.indexOf("Banana");
+fruits[bananaIndex] = "Mango";
 console.log(fruits);
 fruits.pop();
 console.log(fruits);
